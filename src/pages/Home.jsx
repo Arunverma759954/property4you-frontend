@@ -67,7 +67,7 @@ const Home = () => {
             <div className="px-4 mt-10">
                 <div className="bg-red-600 p-2 flex justify-center">
                     <marquee behavior="" direction="">
-                        <h1 className="bg-blue-700 px-4 py-2 rounded-2xl font-bold text-xl md:text-2xl text-white">
+                        <h1 className="bg-blue-700 w-[250px] p-2 items-center text-center rounded-2xl font-bold text-xl md:text-2xl text-white">
                             Nationals Channels
                         </h1>
                     </marquee>
